@@ -3,10 +3,15 @@ A discord bot written in the programming language [Rust](https://www.rust-lang.o
 based off the [Discord-rs](https://github.com/SpaceManiac/discord-rs) library.
 
 Uses:
-Play a song in voice channels.
-Display the wiki of a certain linux distro.
+
+-Play a song in voice channels.
+
+-Display the wiki of a certain linux distro.
 
 What might be added:
-Search [wikipedia](https://www.wikipedia.org/).
-Display user info.
-Socialist takeover?
+
+-Search [wikipedia](https://www.wikipedia.org/) command.
+
+-Display user info.
+
+-Socialist takeover?
